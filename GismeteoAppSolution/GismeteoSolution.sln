@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParserGismeteoService", "ParserGismeteoService\ParserGismeteoService.csproj", "{83647450-FAAE-4D73-ADE9-8845D9D2CC93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{78DA781D-1C80-47AA-B666-5C61F948A305}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contracts", "Contracts\Contracts.csproj", "{EF08EE08-956E-4818-93B0-D70048D0B10D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{1F6854E2-7072-4742-BBBF-01D002E59C7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityGeoMetricServer", "CityGeoMetricServer\CityGeoMetricServer.csproj", "{2E96D11D-DC3C-4C6F-BFAA-726CDE206061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIApp", "UIApp\UIApp.csproj", "{79D8352A-13E0-4743-8C34-84F2DA643B47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83647450-FAAE-4D73-ADE9-8845D9D2CC93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83647450-FAAE-4D73-ADE9-8845D9D2CC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83647450-FAAE-4D73-ADE9-8845D9D2CC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83647450-FAAE-4D73-ADE9-8845D9D2CC93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DA781D-1C80-47AA-B666-5C61F948A305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DA781D-1C80-47AA-B666-5C61F948A305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DA781D-1C80-47AA-B666-5C61F948A305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DA781D-1C80-47AA-B666-5C61F948A305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF08EE08-956E-4818-93B0-D70048D0B10D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF08EE08-956E-4818-93B0-D70048D0B10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF08EE08-956E-4818-93B0-D70048D0B10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF08EE08-956E-4818-93B0-D70048D0B10D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6854E2-7072-4742-BBBF-01D002E59C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6854E2-7072-4742-BBBF-01D002E59C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6854E2-7072-4742-BBBF-01D002E59C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6854E2-7072-4742-BBBF-01D002E59C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E96D11D-DC3C-4C6F-BFAA-726CDE206061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E96D11D-DC3C-4C6F-BFAA-726CDE206061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E96D11D-DC3C-4C6F-BFAA-726CDE206061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E96D11D-DC3C-4C6F-BFAA-726CDE206061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D8352A-13E0-4743-8C34-84F2DA643B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D8352A-13E0-4743-8C34-84F2DA643B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D8352A-13E0-4743-8C34-84F2DA643B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D8352A-13E0-4743-8C34-84F2DA643B47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F249295-8785-4CBA-BB16-7250FC2B022C}
+	EndGlobalSection
+EndGlobal

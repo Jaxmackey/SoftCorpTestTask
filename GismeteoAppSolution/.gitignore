@@ -1,0 +1,13 @@
+/.vs
+/ParserGismeteoService/obj
+/ParserGismeteoService/bin
+/CityGeoMetricServer/bin/Debug
+/CityGeoMetricServer/obj
+/Contracts/bin/Debug
+/Contracts/obj/Debug
+/Entities/bin
+/Entities/obj/Debug
+/Repository/bin
+/Repository/obj
+/UIApp/bin
+/UIApp/obj/Debug
